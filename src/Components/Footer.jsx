@@ -2,7 +2,7 @@ import React from "react";
 import '../Styles/Footer.scss';
 import { FcLike } from "react-icons/fc";
 
-const Footer = () => {
+const Footer = () => { 
   const footerLinks = (element) => {
     const allFooterLinks = document.querySelectorAll(".footerLinks");
 
