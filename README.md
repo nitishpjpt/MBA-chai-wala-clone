@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-
+* Live Preview of Website > https://nitishpjpt.github.io/MBA-chai-wala-clone/
 In the project directory, you can run:
 
 ### `npm start`
